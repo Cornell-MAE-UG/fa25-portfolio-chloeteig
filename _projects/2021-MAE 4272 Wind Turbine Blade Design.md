@@ -7,31 +7,31 @@ image: /assets/images/turbine-pic.png
 ---
 
 ## **Project Overview**
-For the MAE 4272 Wind Energy Engineering course, our team was tasked with designing, fabricating, and experimentally evaluating a small-scale wind turbine blade suitable for testing in Cornell’s **Big Blue Wind Tunnel**. The goal was to engineer a blade that met realistic aerodynamic performance expectations while remaining structurally sound under operational loads. This project followed an authentic engineering workflow—balancing theory, CAD, simulation, prototyping, and testing—to produce a blade capable of efficiently converting wind energy into mechanical power.
+For the MAE 4272 Wind Energy Engineering course, our team was asked to design, build, and test a small wind turbine blade for use in Cornell’s Big Blue Wind Tunnel. The goal was to create a blade that could produce realistic aerodynamic performance while also remaining structurally reliable under load. The project gave us experience with a complete engineering workflow that included conceptual design, modeling, simulation, fabrication, and testing.
 
 <img src="{{ '/assets/images/cad-model.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
 
 ---
 
 ## **Design Process**
-We selected the **NACA 4418 airfoil** because of its high lift at low Reynolds numbers, gentle stall behavior, and suitability for 3D-printed wings. Using MATLAB-based blade element momentum (BEM) calculations, we generated a twist and chord schedule designed to keep local angles of attack near optimal values across the radius.
+We chose the NACA 4418 airfoil because it performs well at low Reynolds numbers and has a smooth stall behavior that works for 3D printed blades. We ran MATLAB blade element momentum calculations to help us create a twist and chord schedule that kept local angles of attack near desirable values along the span.  
 
-The blade was then modeled in CAD and structurally evaluated using **ANSYS**, verifying that stresses remained well below yield and that deflection stayed within safe limits during expected load cases. Iterations focused on refining the tip geometry, reducing stress concentrations near the root, and ensuring manufacturability for 3D printing.
+We developed the blade in CAD and then used ANSYS to check stresses and deflection under expected loading. The simulations confirmed that the design was structurally sound and that the blade shape could be manufactured reliably. We also refined the tip shape and root region to reduce stress concentrations and improve print quality.
 
 <img src="{{ '/assets/images/ansys-pic.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
 
 ---
 
 ## **Testing Summary**
-The finalized blade was printed, mounted to the test rig, and evaluated under three controlled wind-speed conditions. At each wind speed, we performed a sequence of brake-torque steps to measure rotational speed and torque, which we used to compute mechanical power output.
+Once the blade was printed, we mounted it onto the test rig and ran trials at three wind speeds. At each speed, we stepped through a series of brake torque settings and recorded torque and rotational speed. From this, we calculated mechanical power output and created full power curves for the blade.  
 
-The resulting **power curves** showed clear performance differences across wind speeds and closely aligned with our MATLAB predictions. Structural integrity was confirmed throughout testing—no deformation, flutter, or stall behavior occurred at the design wind speed.
+The results showed clear trends across the wind speeds and matched closely with our MATLAB predictions. The blade remained stable throughout testing, with no signs of deformation, flutter, or stall behavior at the design point.
 
 <img src="{{ '/assets/images/power-curve.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
 
 ---
 
 ## **My Contribution**
-I contributed across design, simulation, and analysis. I helped refine the blade geometry, supported ANSYS structural modeling, assisted with MATLAB power-curve processing, and collected and analyzed wind-tunnel data. I also contributed significantly to documentation and presentation materials, ensuring our engineering decisions and results were communicated clearly and professionally.
+I developed the testing plan, kept the project on track through each stage, and completed much of the report assembly. I also worked on data collection in the wind tunnel, helped organize our results into clear visuals, and supported the team in preparing our final presentation and documentation.
 
 ---
