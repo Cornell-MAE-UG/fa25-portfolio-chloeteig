@@ -23,9 +23,9 @@ We developed the blade in CAD and then used ANSYS to check stresses and deflecti
 ---
 
 ## **Testing Summary**
-Once the blade was printed, we mounted it onto the test rig and ran trials at three wind speeds. At each speed, we stepped through a series of brake torque settings and recorded torque and rotational speed. From this, we calculated mechanical power output and created full power curves for the blade.  
+Once the blade was printed, we mounted it onto the test rig and ran trials at three wind speeds. At each speed, we stepped through a series of brake torque settings and recorded torque and rotational speed. From this, we calculated mechanical power output and created three power curves for the blade in excel and combined them on MATLAB.
 
-The results showed clear trends across the wind speeds and matched closely with our MATLAB predictions. The blade remained stable throughout testing, with no signs of deformation, flutter, or stall behavior at the design point.
+The results showed clear trends across the wind speeds and matched closely with our MATLAB predictions. In addition, our blade remained stable throughout testing, with no signs of deformation or stall behavior at any points.
 
 <img src="{{ '/assets/images/power-curve.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
 
