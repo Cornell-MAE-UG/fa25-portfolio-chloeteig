@@ -1,25 +1,22 @@
 ---
 layout: project
 title: Wind Turbine Blade Design Project
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+description: Designed, modeled, and wind-tunnel tested a custom NACA-4418 turbine blade to evaluate structural performance and aerodynamic power output.
+technologies: [Autodesk Fusion, MATLAB]
 image: /assets/images/turbine-pic.png
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Project Overview: For the MAE 4272 Wind Energy Engineering course, our team was tasked with designing, fabricating, and experimentally evaluating a small-scale wind turbine blade suitable for testing in Cornell’s **Big Blue Wind Tunnel**. The goal was to engineer a blade that met realistic aerodynamic performance expectations while remaining structurally sound under operational loads. This project mimicked an authentic engineering design workflow—balancing theory, CAD, simulation, prototyping, and testing—to produce a blade capable of efficiently converting wind energy into mechanical power.
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![CAD model of final blade]({{ '/assets/images/cad-model.png' | relative_url }})
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Design Process: We selected the **NACA 4418 airfoil** because of its high lift at low Reynolds numbers, gentle stall behavior, and suitability for 3D-printed wings. Using MATLAB-based blade element momentum (BEM) calculations, we generated an initial twist and chord schedule designed to keep local angles of attack near optimal values across the radius. The blade was modeled in CAD and structurally evaluated using **ANSYS**, verifying that stresses remained well below yield and deflection stayed within safe limits during expected load cases. Several iterations focused on refining the tip geometry, reducing stress concentrations near the root, and ensuring manufacturability for 3D printing.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+![Wind tunnel test photo]({{ '/assets/images/turbine-pic.png' | relative_url }})
 
-I was inspired by this old radio when I made this rendering:
+Testing Summary: The finalized blade was printed, mounted to the test rig, and evaluated under three controlled wind-speed conditions. For each speed, we performed a sequence of controlled brake-torque steps to measure rotational speed and torque, allowing us to compute mechanical power output. The resulting **power curves** showed clear performance differences across wind speeds and aligned closely with our MATLAB predictions. Structural integrity was also confirmed during operation—no deformation, flutter, or indications of stall at the design wind speed.
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Power curve plot]({{ '/assets/images/power-curve.png' | relative_url }})
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My Contribution: I contributed across design, simulation, and analysis. Specifically, I helped refine the blade geometry, supported ANSYS structural modeling, assisted with MATLAB power-curve processing, and collected and analyzed wind-tunnel data during testing. I also contributed significantly to documentation and presentation materials, ensuring our engineering rationale and experimental results were communicated clearly.
