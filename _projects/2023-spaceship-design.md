@@ -1,13 +1,41 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Pawfect Rinse
+description: Designed and engineered a portable, collapsible dog bathing system with 360-degree water and air distribution to reduce stress for both dogs and owners.
+technologies: [Autodesk Fusion 360, FEA, TRIZ, QFD, DFMEA]
+image: /assets/images/pawfectrinse.png
 ---
 
+## **Overview**
+We designed the Pawfect Rinse to solve a problem that dog owners consistently struggle with: bathing dogs is messy, stressful, and physically difficult, especially in small living spaces or when bathing alone. Existing solutions either rely on high-pressure hoses that scare dogs or rigid tubs that are bulky, hard to store, and uncomfortable for pets.
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Our goal was to create a portable, easy-to-use system that gently contains the dog, provides full rinse coverage, and frees the owner’s hands. Pawfect Rinse combines bathing and drying into a single collapsible product that works indoors or outdoors and connects to standard household water sources.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+---
 
+## **Design Concept**
+We built Pawfect Rinse as a soft, inflatable enclosure that expands during use and collapses flat for storage. Once connected to a hose or showerhead, the system delivers water through an internal 360-degree hole pattern that provides even, gentle coverage without harsh pressure.
+
+<img src="{{ '/assets/images/pawfect-internal.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
+
+A head-positioning buckle keeps the dog’s face outside the enclosure, reducing anxiety while maintaining full-body coverage. After rinsing, the same internal channels can be used to circulate air from a blow dryer, allowing the dog — and the product itself — to dry quickly.
+
+---
+
+## **Engineering & Analysis**
+We selected thermoplastic polyurethane (TPU) as the primary material to balance flexibility, durability, and pet safety. TPU allowed the structure to fold compactly while remaining resistant to water, heat, scratches, and repeated inflation cycles.
+
+We performed analytical flow calculations and finite element analysis to verify that the system operates safely under typical household water pressure. Our analysis confirmed low per-hole flow rates comparable to gentle, low-flow shower heads, ensuring dog comfort without sacrificing cleaning effectiveness. Structural simulations showed acceptable stress levels and safety factors across repeated use cycles.
+
+We used TRIZ principles, Quality Function Deployment (QFD), and DFMEA to guide design decisions, helping us resolve key trade-offs such as portability versus capacity and flexibility versus durability.
+
+---
+
+## **User Experience & Accessibility**
+We designed Pawfect Rinse to reduce both physical effort and cognitive load for the owner. By containing the dog and eliminating the need to control a hose, the system allows owners to focus on washing rather than restraint. The collapsible form factor makes the product easy to store in apartments, travel with, or bring outdoors.
+
+<img src="{{ '/assets/images/pawfect-logo.png' | relative_url }}" style="max-width: 350px; display:block; margin: 1.5rem auto;" />
+
+Throughout development, we grounded our decisions in user research, including online reviews, forums, and survey feedback, to ensure the product addressed real pain points rather than adding unnecessary complexity.
+
+---
