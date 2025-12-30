@@ -15,7 +15,7 @@ We designed EverSeat to address three core problems in the current market: poor 
 ## **Modular Concept**
 We built EverSeat around a single structural frame that supports multiple seating configurations over time. Instead of relying on detachable accessories that can be lost or misused, we intentionally repurposed core components across stages to reduce part count and simplify transitions.
 
-<img src="{{ '/assets/images/seat-evolution.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
+<img src="{{ '/assets/images/seats.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
 
 This modular architecture allows the seat to adapt to a wide range of child sizes while maintaining consistent geometry, predictable load paths, and intuitive adjustment. By designing the system as a platform rather than a sequence of products, we reduced both user error and long-term material waste.
 
