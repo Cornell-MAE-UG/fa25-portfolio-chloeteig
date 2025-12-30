@@ -18,7 +18,7 @@ We built Pawfect Rinse as a soft, inflatable enclosure that expands during use a
 
 <img src="{{ '/assets/images/pawfect-internal.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
 
-A head-positioning buckle keeps the dog’s face outside the enclosure, reducing anxiety while maintaining full-body coverage. After rinsing, the same internal channels can be used to circulate air from a blow dryer, allowing the dog — and the product itself — to dry quickly.
+A head-positioning buckle keeps the dog’s face outside the enclosure, which reduces anxiety and maintains full-body coverage. After rinsing, the same internal channels can be used to circulate air from a blow dryer, allowing the dog, and the product itself, to dry off quickly.
 
 ---
 
