@@ -1,41 +1,60 @@
 ---
 layout: project
-title: Mechatronics Robot Design
-description: Designed and engineered a portable, collapsible dog bathing system with 360-degree water and air distribution to reduce stress for both dogs and owners.
-technologies: [Autodesk Fusion 360, FEA, TRIZ, QFD, DFMEA]
-image: /assets/images/pawfectrinse.png
+title: Autonomous Robot Design (MAE 3780)
+description: Team-based mechatronics project where I designed, built, and programmed an autonomous robot integrating mechanical design, electronics, and embedded control. The project emphasized system integration, robustness, and real-time decision making.
+technologies: [Arduino, C++, CAD, Rapid Prototyping, Sensors, Embedded Systems]
+image: /assets/images/robot-cover.png
 ---
 
 ## **Overview**
-We designed the Pawfect Rinse to solve a problem that dog owners consistently struggle with: bathing dogs is messy, stressful, and physically difficult, especially in small living spaces or when bathing alone. Existing solutions either rely on high-pressure hoses that scare dogs or rigid tubs that are bulky, hard to store, and uncomfortable for pets.
 
-Our goal was to create a portable, easy-to-use system that gently contains the dog, provides full rinse coverage, and frees the owner’s hands. Pawfect Rinse combines bathing and drying into a single collapsible product that works indoors or outdoors and connects to standard household water sources.
+I completed this project as part of MAE 3780 (Mechatronics), where I worked on a five-person team to design, build, and program an autonomous robot capable of navigating a structured environment and collecting objects. The project required tight integration between mechanical design, electrical systems, and software control.
 
----
-
-## **Design Concept**
-We built Pawfect Rinse as a soft, inflatable enclosure that expands during use and collapses flat for storage. Once connected to a hose or showerhead, the system delivers water through an internal 360-degree hole pattern that provides even, gentle coverage without harsh pressure.
-
-<img src="{{ '/assets/images/pawfect-internal.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
-
-A head-positioning buckle keeps the dog’s face outside the enclosure, which reduces anxiety and maintains full-body coverage. After rinsing, the same internal channels can be used to circulate air from a blow dryer, allowing the dog, and the product itself, to dry off quickly.
+We focused on creating a robust, repeatable system that could operate reliably under time constraints and physical interactions. The final robot earned a **100** and demonstrated strong performance across mechanical stability, sensing, and control.
 
 ---
 
-## **Engineering & Analysis**
-We selected thermoplastic polyurethane (TPU) as the primary material to balance flexibility, durability, and pet safety. TPU allowed the structure to fold compactly while remaining resistant to water, heat, scratches, and repeated inflation cycles.
+## **Mechanical Design**
 
-We performed analytical flow calculations and finite element analysis to verify that the system operates safely under typical household water pressure. Our analysis confirmed low per-hole flow rates comparable to gentle, low-flow shower heads, ensuring dog comfort without sacrificing cleaning effectiveness. Structural simulations showed acceptable stress levels and safety factors across repeated use cycles.
+I contributed to the mechanical design of the robot, focusing on structure, organization, and impact tolerance. The chassis supported a multi-level layout that separated power, control, and sensing components to improve reliability and troubleshooting.
 
-We used TRIZ principles, Quality Function Deployment (QFD), and DFMEA to guide design decisions, helping us resolve key trade-offs such as portability versus capacity and flexibility versus durability.
+The aluminum bumper and side panels guided objects into the robot while also protecting the drivetrain from collisions. This geometry balanced weight, durability, and functional volume while staying within size constraints.
+
+![Robot CAD model](/assets/images/robot-cad.png)
+
+---
+
+## **Electrical System & Integration**
+
+I helped organize and integrate the electrical system, ensuring clean wiring, stable power delivery, and accessibility for debugging. The design used multiple power sources to isolate high-current motor loads from sensitive control electronics.
+
+Clear wire routing and layered component placement reduced failure risk and allowed quick identification of loose connections during testing and iteration.
+
+![Circuit diagram](/assets/images/circuit-diagram.png)
 
 ---
 
-## **User Experience & Accessibility**
-We designed Pawfect Rinse to reduce both physical effort and cognitive load for the owner. By containing the dog and eliminating the need to control a hose, the system allows owners to focus on washing rather than restraint. The collapsible form factor makes the product easy to store in apartments, travel with, or bring outdoors.
+## **Control Logic & Software**
 
-<img src="{{ '/assets/images/pawfect-logo.png' | relative_url }}" style="max-width: 350px; display:block; margin: 1.5rem auto;" />
+I contributed to developing the robot’s control logic using Arduino-based embedded programming. The software coordinated motor control, sensor input, and timed motion sequences to execute a repeatable navigation strategy.
 
-Throughout development, we grounded our decisions in user research, including online reviews, forums, and survey feedback, to ensure the product addressed real pain points rather than adding unnecessary complexity.
+We implemented interrupt-based sensing to detect field boundaries and structured the program using modular motion functions. This approach improved readability, debugging efficiency, and control reliability.
+
+![Game flowchart](/assets/images/game-flowchart.png)
 
 ---
+
+## **My Contribution**
+
+This was a five-person team project. My contributions included:
+- Mechanical design of the bumper and object-guiding features
+- CAD modeling and fabrication support
+- Electrical system organization and wiring layout
+- Development and debugging of embedded control logic
+- Documentation and technical reporting
+
+---
+
+## **Outcome**
+
+The final robot successfully demonstrated integrated mechanical, electrical, and software systems working together as a cohesive platform. The project earned a **100** and strengthened my skills in system-level design, rapid iteration, and translating theoretical concepts into a functioning electromechanical system.
