@@ -18,7 +18,7 @@ The project focused on translating real stakeholder needs into a robust, easy-to
 
 The tracker collects LoRaWAN signal data alongside GPS location and timestamps, storing results locally for later analysis. I contributed to designing a system that prioritized clarity and usability over raw technical complexity, ensuring the device could be operated reliably in outdoor environments.
 
-![System architecture overview](/assets/images/IPT-system.png)
+![System architecture overview]({{ '/assets/images/IPT-system.png' | relative_url }})
 
 Key design priorities included intuitive operation, clear feedback to the user, and reliable data capture during field testing.
 
@@ -28,7 +28,7 @@ Key design priorities included intuitive operation, clear feedback to the user, 
 
 I worked on the development and refinement of the on-device user interface to ensure the tracker communicated status clearly to non-technical users. The interface provides immediate feedback on connection status, battery level, and GPS availability, reducing user uncertainty during field deployment.
 
-![Tracker screen layouts](/assets/images/tracker-screens.png)
+![Tracker screen layouts]({{ '/assets/images/tracker-screens.png' | relative_url }})
 
 We iterated the interface design to balance information density with readability and ease of use in outdoor conditions.
 
@@ -38,7 +38,7 @@ We iterated the interface design to balance information density with readability
 
 As a team, we iterated on the physical enclosure and internal layout to improve durability, ergonomics, and accessibility. The final design reflects multiple rounds of prototyping and testing, addressing issues related to component access, antenna placement, and overall robustness.
 
-![Design comparison between iterations](/assets/images/newdesign-vs-previous.png)
+![Design comparison between iterations]({{ '/assets/images/newdesign-vs-previous.png' | relative_url }})
 
 ---
 

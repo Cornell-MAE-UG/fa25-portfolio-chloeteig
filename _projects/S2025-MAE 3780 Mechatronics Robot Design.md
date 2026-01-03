@@ -20,7 +20,7 @@ I contributed to the mechanical design of the robot, focusing on structure, orga
 
 The aluminum bumper and side panels guided objects into the robot while also protecting the drivetrain from collisions. This geometry balanced weight, durability, and functional volume while staying within size constraints.
 
-![Robot CAD model](/assets/images/robot-cad.png)
+![Robot CAD model]({{ '/assets/images/robot-cad.png' | relative_url }})
 
 ---
 
@@ -30,7 +30,7 @@ I helped organize and integrate the electrical system, ensuring clean wiring, st
 
 Clear wire routing and layered component placement reduced failure risk and allowed quick identification of loose connections during testing and iteration.
 
-![Circuit diagram](/assets/images/circuit-diagram.png)
+![Circuit diagram]({{ '/assets/images/circuit-diagram.png' | relative_url }})
 
 ---
 
@@ -40,7 +40,7 @@ I contributed to developing the robot’s control logic using Arduino-based embe
 
 We implemented interrupt-based sensing to detect field boundaries and structured the program using modular motion functions. This approach improved readability, debugging efficiency, and control reliability.
 
-![Game flowchart](/assets/images/game-flowchart.png)
+![Game flowchart]({{ '/assets/images/game-flowchart.png' | relative_url }})
 
 ---
 
