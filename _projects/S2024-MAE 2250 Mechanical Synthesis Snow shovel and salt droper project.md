@@ -18,7 +18,7 @@ The project emphasized mechanical synthesis, user-informed decision making, and 
 
 I helped design a system that integrates a wheeled snow shovel with a cam-driven salt dispensing mechanism. As the shovel moves forward, the cam mechanism induces controlled vertical motion of the salt box, enabling periodic salt release without electronics or additional user input.
 
-![CAD mechanism overview](/assets/images/snowshovel-cad.png)
+![CAD mechanism overview]({{ '/assets/images/snowshovel-cad.png' | relative_url }})
 
 This approach mechanically synchronizes snow removal and salt distribution while maintaining simplicity, durability, and suitability for outdoor use.
 
@@ -30,7 +30,7 @@ I contributed to distributing and analyzing user surveys focused on winter maint
 
 As a five-person team, we iterated the design through multiple prototype versions. We used user feedback and physical testing to refine comfort, stability, and mechanical performance.
 
-![Design iterations and prototyping](/assets/images/shovel-iterations.png)
+![Design iterations and prototyping]({{ '/assets/images/shovel-iterations.png' | relative_url }})
 
 ---
 
