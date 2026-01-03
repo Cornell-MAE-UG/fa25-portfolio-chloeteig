@@ -1,16 +1,16 @@
 ---
 layout: project
 title: Autonomous Robot Design
-description: Team-based mechatronics project where I designed, built, and programmed an autonomous robot integrating mechanical design, electronics, and embedded control. The project emphasized system integration, robustness, and real-time decision making.
+description: Team-based mechatronics project where I designed, built, and programmed an autonomous robot integrating mechanical design, electronics, and embedded control.
 technologies: [Arduino, C++, CAD, Rapid Prototyping, Sensors, Embedded Systems]
 image: /assets/images/robot-cover.png
 ---
 
 ## **Overview**
 
-I completed this project as part of MAE 3780 (Mechatronics), where I worked on a five-person team to design, build, and program an autonomous robot capable of navigating a structured environment and collecting objects. The project required tight integration between mechanical design, electrical systems, and software control.
+I completed this project as part of MAE 3780 (Mechatronics), working on a five-person team to design, build, and program an autonomous robot that navigated a structured environment and collected objects. The project required tight integration between mechanical design, electrical systems, and software control.
 
-We focused on creating a robust, repeatable system that could operate reliably under time constraints and physical interactions. The final robot demonstrated strong performance across mechanical stability, sensing, and control.
+We built a robust, repeatable system that operated reliably under time constraints and physical interactions. The final robot and demonstrated strong performance across mechanical stability, sensing, and control.
 
 ---
 
@@ -20,17 +20,17 @@ I contributed to the mechanical design of the robot, focusing on structure, orga
 
 The aluminum bumper and side panels guided objects into the robot while also protecting the drivetrain from collisions. This geometry balanced weight, durability, and functional volume while staying within size constraints.
 
-![Robot CAD model]({{ '/assets/images/robot-cad.png' | relative_url }}) style="max-width: 600px; width: 100%; display:block; margin: 1.5rem auto;" />
+<img src="{{ '/assets/images/robot-cad.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
 ---
 
 ## **Electrical System & Integration**
 
-I helped organize and integrate the electrical system, ensuring clean wiring, stable power delivery, and accessibility for debugging. The design used multiple power sources to isolate high-current motor loads from sensitive control electronics.
+I helped organize and integrate the electrical system, keeping wiring clean, power delivery stable, and components accessible for debugging. The design used multiple power sources to isolate high-current motor loads from sensitive control electronics.
 
-Clear wire routing and layered component placement reduced failure risk and allowed quick identification of loose connections during testing and iteration.
+Clear wire routing and layered component placement reduced failure risk and helped us quickly identify loose connections during testing and iteration.
 
-![Circuit diagram]({{ '/assets/images/circuit-diagram.png' | relative_url }}) style="max-width: 600px; width: 100%; display:block; margin: 1.5rem auto;" />
+<img src="{{ '/assets/images/circuit-diagram.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
 ---
 
@@ -40,7 +40,7 @@ I contributed to developing the robot’s control logic using Arduino-based embe
 
 We implemented interrupt-based sensing to detect field boundaries and structured the program using modular motion functions. This approach improved readability, debugging efficiency, and control reliability.
 
-![Game flowchart]({{ '/assets/images/game-flowchart.png' | relative_url }}) style="max-width: 600px; width: 100%; display:block; margin: 1.5rem auto;" />
+<img src="{{ '/assets/images/game-flowchart.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
 ---
 
@@ -57,4 +57,4 @@ This was a five-person team project. My contributions included:
 
 ## **Outcome**
 
-The final robot successfully demonstrated integrated mechanical, electrical, and software systems working together as a cohesive platform. The project earned a 100 and strengthened my skills in system-level design, rapid iteration, and translating theoretical concepts into a functioning electromechanical system.
+The final robot demonstrated integrated mechanical, electrical, and software systems operating as a cohesive platform. The project earned a 100 and strengthened my skills in system-level design, rapid iteration, and translating theory into a functioning electromechanical system.
