@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Autonomous Robot Design (MAE 3780)
+title: Autonomous Robot Design
 description: Team-based mechatronics project where I designed, built, and programmed an autonomous robot integrating mechanical design, electronics, and embedded control. The project emphasized system integration, robustness, and real-time decision making.
 technologies: [Arduino, C++, CAD, Rapid Prototyping, Sensors, Embedded Systems]
 image: /assets/images/robot-cover.png
