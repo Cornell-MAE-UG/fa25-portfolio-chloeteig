@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Pawfect Rinse
+title: LoRaWAN Tracker
 description: Designed and engineered a portable, collapsible dog bathing system with 360-degree water and air distribution to reduce stress for both dogs and owners.
 technologies: [Autodesk Fusion 360, FEA, TRIZ, QFD, DFMEA]
 image: /assets/images/pawfectrinse.png
