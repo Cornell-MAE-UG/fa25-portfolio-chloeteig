@@ -1,41 +1,66 @@
 ---
 layout: project
-title: LoRaWAN Tracker
-description: Designed and engineered a portable, collapsible dog bathing system with 360-degree water and air distribution to reduce stress for both dogs and owners.
-technologies: [Autodesk Fusion 360, FEA, TRIZ, QFD, DFMEA]
-image: /assets/images/pawfectrinse.png
+title: LoRaWAN Connectivity Tracker
+description: Team-based IoT and mechatronics project where I designed and prototyped a handheld LoRaWAN tracker for mapping connectivity in underserved communities. The project emphasized user-centered hardware design, embedded systems, and direct collaboration with municipal and nonprofit partners.
+technologies: [IoT Systems, Embedded Systems, CAD, LoRaWAN, GPS, User-Centered Design]
+image: /assets/images/lorawantracker-cover.png
 ---
 
 ## **Overview**
-We designed the Pawfect Rinse to solve a problem that dog owners consistently struggle with: bathing dogs is messy, stressful, and physically difficult, especially in small living spaces or when bathing alone. Existing solutions either rely on high-pressure hoses that scare dogs or rigid tubs that are bulky, hard to store, and uncomfortable for pets.
 
-Our goal was to create a portable, easy-to-use system that gently contains the dog, provides full rinse coverage, and frees the owner’s hands. Pawfect Rinse combines bathing and drying into a single collapsible product that works indoors or outdoors and connects to standard household water sources.
+I completed this project as part of MAE 4221, working on a four-person team to design and build a handheld LoRaWAN connectivity tracker for use by non-technical volunteers. Community partners in Syracuse and Geneva needed a simple way to evaluate LoRaWAN coverage in the field in order to inform placement of sensors supporting public services such as flood monitoring, food access initiatives, and community infrastructure.
 
----
-
-## **Design Concept**
-We built Pawfect Rinse as a soft, inflatable enclosure that expands during use and collapses flat for storage. Once connected to a hose or showerhead, the system delivers water through an internal 360-degree hole pattern that provides even, gentle coverage without harsh pressure.
-
-<img src="{{ '/assets/images/pawfect-internal.png' | relative_url }}" style="max-width: 650px; display:block; margin: 1.5rem auto;" />
-
-A head-positioning buckle keeps the dog’s face outside the enclosure, which reduces anxiety and maintains full-body coverage. After rinsing, the same internal channels can be used to circulate air from a blow dryer, allowing the dog, and the product itself, to dry off quickly.
+The project focused on translating real stakeholder needs into a robust, easy-to-use IoT system that could be deployed by volunteers with minimal training.
 
 ---
 
-## **Engineering & Analysis**
-We selected thermoplastic polyurethane (TPU) as the primary material to balance flexibility, durability, and pet safety. TPU allowed the structure to fold compactly while remaining resistant to water, heat, scratches, and repeated inflation cycles.
+## **System Concept & Design Approach**
 
-We performed analytical flow calculations and finite element analysis to verify that the system operates safely under typical household water pressure. Our analysis confirmed low per-hole flow rates comparable to gentle, low-flow shower heads, ensuring dog comfort without sacrificing cleaning effectiveness. Structural simulations showed acceptable stress levels and safety factors across repeated use cycles.
+The tracker collects LoRaWAN signal data alongside GPS location and timestamps, storing results locally for later analysis. I contributed to designing a system that prioritized clarity and usability over raw technical complexity, ensuring the device could be operated reliably in outdoor environments.
 
-We used TRIZ principles, Quality Function Deployment (QFD), and DFMEA to guide design decisions, helping us resolve key trade-offs such as portability versus capacity and flexibility versus durability.
+![System architecture overview](/assets/images/IPT-system.png)
+
+Key design priorities included intuitive operation, clear feedback to the user, and reliable data capture during field testing.
+
+---
+
+## **User Interface & Interaction Design**
+
+I worked on the development and refinement of the on-device user interface to ensure the tracker communicated status clearly to non-technical users. The interface provides immediate feedback on connection status, battery level, and GPS availability, reducing user uncertainty during field deployment.
+
+![Tracker screen layouts](/assets/images/tracker-screens.png)
+
+We iterated the interface design to balance information density with readability and ease of use in outdoor conditions.
 
 ---
 
-## **User Experience & Accessibility**
-We designed Pawfect Rinse to reduce both physical effort and cognitive load for the owner. By containing the dog and eliminating the need to control a hose, the system allows owners to focus on washing rather than restraint. The collapsible form factor makes the product easy to store in apartments, travel with, or bring outdoors.
+## **Iterative Prototyping & Hardware Refinement**
 
-<img src="{{ '/assets/images/pawfect-logo.png' | relative_url }}" style="max-width: 350px; display:block; margin: 1.5rem auto;" />
+As a team, we iterated on the physical enclosure and internal layout to improve durability, ergonomics, and accessibility. The final design reflects multiple rounds of prototyping and testing, addressing issues related to component access, antenna placement, and overall robustness.
 
-Throughout development, we grounded our decisions in user research, including online reviews, forums, and survey feedback, to ensure the product addressed real pain points rather than adding unnecessary complexity.
+![Design comparison between iterations](/assets/images/newdesign-vs-previous.png)
 
 ---
+
+## **Documentation & User Manual**
+
+To support long-term usability beyond the classroom, we created a detailed user manual explaining device operation, data handling, and deployment best practices. I contributed significantly to structuring and writing this documentation to ensure future volunteers and interns could use the tracker without additional training.
+
+The documentation was designed to serve as a handoff resource for continued development and deployment by community partners.
+
+---
+
+## **My Contribution**
+
+This was a four-person team project. My contributions included:
+- Designing and refining the physical enclosure and system layout
+- Contributing to embedded system integration and UI decisions
+- Leading communication with community partners to gather requirements and share progress
+- Supporting the creation and organization of the user manual
+- Participating in prototyping, field testing, and design iteration
+
+---
+
+## **Outcome & Impact**
+
+The final tracker successfully enabled real-time assessment of LoRaWAN connectivity across multiple locations. The project delivered a practical tool that supports equitable, community-driven deployment of IoT infrastructure while strengthening my experience in user-centered design, embedded systems, and stakeholder collaboration.
