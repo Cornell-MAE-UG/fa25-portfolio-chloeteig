@@ -1,43 +1,43 @@
 ---
 layout: project
-title: Open Design Project- Snow Shovel and Salt Dropper
+title: Open Design Project - Snow Shovel and Salt Dropper
 technologies: [Mechanical Synthesis, CAD, Rapid Prototyping, Design for Assembly, User Research]
 image: /assets/images/snowshovel-cover.png
 ---
 
 ## **Overview**
 
-I completed this Open Design Project as part of MAE 2250 (Mechanical Synthesis). This project was my first full engineering design experience and focused on translating user needs into mechanical function through iterative design and prototyping. I worked as part of a five-person team to design and build a combined snow shovel and salt dropper intended to reduce physical effort while improving efficiency during winter maintenance.
+I completed this Open Design Project as part of MAE 2250 (Mechanical Synthesis). Working on a five-person team, we designed and built a combined snow shovel and salt dropper intended to reduce physical effort while improving efficiency during winter maintenance.
 
-The project emphasized mechanical synthesis, user-informed decision making, and realistic manufacturing constraints. The final design successfully demonstrated an integrated, mechanically driven solution and received an **A+**.
-
----
-
-## **Design Concept & Mechanical Synthesis**
-
-I helped design a system that integrates a wheeled snow shovel with a cam-driven salt dispensing mechanism. As the shovel moves forward, the cam mechanism induces controlled vertical motion of the salt box, enabling periodic salt release without electronics or additional user input.
-
-![CAD mechanism overview]({{ '/assets/images/snowshovel-cad.png' | relative_url }})
-
-This approach mechanically synchronizes snow removal and salt distribution while maintaining simplicity, durability, and suitability for outdoor use.
+The project emphasized mechanical synthesis, user-informed decision making, and realistic manufacturing constraints. The final design successfully demonstrated an integrated, mechanically driven solution.
 
 ---
 
-## **User Research & Iterative Design**
+## **System Concept & Mechanical Synthesis**
 
-I contributed to distributing and analyzing user surveys focused on winter maintenance routines, ergonomic concerns, and usability challenges. Survey responses directly informed handle height, handle angle, force application, and salt dispensing frequency.
+We integrated a wheeled snow shovel with a mechanically driven salt dispensing mechanism. As the shovel moves forward, the mechanism induces controlled motion of the salt box, enabling periodic salt release without electronics or additional user input.
 
-As a five-person team, we iterated the design through multiple prototype versions. We used user feedback and physical testing to refine comfort, stability, and mechanical performance.
+<img src="{{ '/assets/images/snowshovel-cad.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
-![Design iterations and prototyping]({{ '/assets/images/shovel-iterations.png' | relative_url }})
+This approach synchronizes snow removal and salt distribution while keeping the system simple, durable, and suitable for outdoor use.
 
 ---
 
-## **Design for Assembly & Sustainability**
+## **User Research & Iteration**
 
-I prioritized design for assembly by favoring mechanically constrained joints over adhesive-based connections. This decision improves manufacturability, repeatability, and ease of repair. I also evaluated material choices with sustainability in mind, favoring wood over acrylic where possible to reduce plastic use and improve structural stiffness.
+I contributed to distributing and analyzing user surveys focused on winter maintenance routines, ergonomics, and usability challenges. Feedback informed key design decisions such as handle height and angle, force application, stability, and salt dispensing frequency.
 
-These choices ensured the design remained functional while supporting long-term viability and responsible material use.
+As a team, we iterated through multiple prototype versions and used testing plus user input to refine comfort, mechanical performance, and repeatability.
+
+<img src="{{ '/assets/images/shovel-iterations.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
+
+---
+
+## **Design for Assembly & Material Choices**
+
+I prioritized design for assembly by favoring mechanically constrained joints over adhesive-based connections. This improved manufacturability, repeatability, and ease of repair.
+
+I also evaluated material choices with sustainability in mind, favoring wood over acrylic where possible to reduce plastic use while improving stiffness and durability.
 
 ---
 
@@ -54,4 +54,4 @@ This was a five-person team project. My contributions included:
 
 ## **Outcome**
 
-The final prototype successfully demonstrated a mechanically integrated snow removal and salt dispensing system. I earned an **A+** on this project, and it marked my entry point into hands-on engineering design, shaping how I approach iteration, user research, and mechanical decision making in subsequent projects.
+The final prototype successfully demonstrated a mechanically integrated snow removal and salt dispensing system. This project marked my entry point into hands-on engineering design and shaped how I approach iteration, user research, and mechanically driven decision making in later work.
