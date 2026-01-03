@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Open Design Project: Snow Shovel & Salt Dropper
-description: Team-based open design project where I designed and prototyped a mechanically integrated snow shovel and salt dropper. User surveys informed ergonomic decisions, handle geometry, and usability constraints, with a focus on mechanical synthesis, manufacturability, and sustainability.
 technologies: [Mechanical Synthesis, CAD, Rapid Prototyping, Design for Assembly, User Research]
 image: /assets/images/snowshovel-cover.png
 ---

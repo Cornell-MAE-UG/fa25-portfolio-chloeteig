@@ -1,7 +1,6 @@
 ---
 layout: project
 title: LoRaWAN Connectivity Tracker
-description: Team-based IoT project where I designed and prototyped a handheld LoRaWAN tracker for mapping connectivity in underserved communities through user-centered hardware design and partner collaboration.
 technologies: [IoT Systems, Embedded Systems, CAD, LoRaWAN, GPS, User-Centered Design]
 image: /assets/images/lorawantracker-cover.png
 ---

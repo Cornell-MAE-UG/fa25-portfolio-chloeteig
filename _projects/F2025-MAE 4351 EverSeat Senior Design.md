@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Senior Design Project 
-description: Designed a modular, long-lifespan child car seat system that adapts from infancy through the booster stage, integrating engineering analysis, sustainability, and a full startup business case.
 technologies: [CAD, ANSYS, DFMEA, QFD]
 image: /assets/images/everseat.png
 ---

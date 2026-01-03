@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Autonomous Robot Design
-description: Team-based mechatronics project where I designed, built, and programmed an autonomous robot integrating mechanical design, electronics, and embedded control.
 technologies: [Arduino, C++, CAD, Rapid Prototyping, Sensors, Embedded Systems]
 image: /assets/images/robot-cover.png
 ---

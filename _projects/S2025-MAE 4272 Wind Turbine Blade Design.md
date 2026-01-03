@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Wind Turbine Blade Design
-description: Team-based project for MAE 4272: Fluids and Heat Transfer Lab where I designed, modeled, and wind-tunnel tested a custom NACA 4418 turbine blade to evaluate aerodynamic performance and mechanical power output.
 technologies: [Autodesk Fusion 360, MATLAB, ANSYS, Wind Tunnel Testing]
 image: /assets/images/turbine-pic.png
 ---
