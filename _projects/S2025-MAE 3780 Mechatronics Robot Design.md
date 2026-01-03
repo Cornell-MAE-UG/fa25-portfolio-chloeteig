@@ -7,7 +7,7 @@ image: /assets/images/robot-cover.png
 
 ## **Overview**
 
-I completed this project as part of MAE 3780 (Mechatronics), working on a five-person team to design, build, and program an autonomous robot that navigated a structured environment and collected objects. The project required tight integration between mechanical design, electrical systems, and software control.
+I completed this project as part of MAE 3780 (Mechatronics), working on a three-person team to design, build, and program an autonomous robot that navigated a structured environment and collected objects. The project required tight integration between mechanical design, electrical systems, and software control.
 
 We built a robust, repeatable system that operated reliably under time constraints and physical interactions. The final robot and demonstrated strong performance across mechanical stability, sensing, and control.
 
@@ -45,7 +45,7 @@ We implemented interrupt-based sensing to detect field boundaries and structured
 
 ## **My Contribution**
 
-This was a five-person team project. My contributions included:
+This was a three-person team project. My contributions included:
 - Mechanical design of the bumper and object-guiding features
 - CAD modeling and fabrication support
 - Electrical system organization and wiring layout

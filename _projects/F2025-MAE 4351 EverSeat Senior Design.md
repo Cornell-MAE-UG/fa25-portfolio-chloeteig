@@ -57,7 +57,7 @@ Figure: Projected cash flow and break-even timeline based on modeled manufacturi
 
 ## **My Contribution**
 
-This was a team-based senior design and venture concept project. My contributions included:
+This was a four-person, team-based senior design and venture concept project. My contributions included:
 - Co-founding ModuBaby and defining product direction for EverSeat
 - Leading customer research and translating insights into engineering requirements (QFD)
 - Using DFMEA to identify key risk modes and drive design decisions

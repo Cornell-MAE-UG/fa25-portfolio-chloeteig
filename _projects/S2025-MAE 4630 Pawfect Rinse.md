@@ -45,7 +45,7 @@ The collapsible form factor makes the product easy to store in apartments, trans
 
 ## **My Contribution**
 
-This was a team-based product design project. My contributions included:
+This was a three-person, team-based product design project. My contributions included:
 - Contributing to early concept generation and system-level architecture
 - Supporting CAD development and inflatable geometry design
 - Performing analytical flow calculations and assisting with structural analysis

@@ -43,7 +43,7 @@ I helped collect experimental data and processed results using Excel and MATLAB 
 
 ## **My Contribution**
 
-This was a team-based project. My contributions included:
+This was a four-person, team-based project. My contributions included:
 - Running MATLAB BEM calculations to generate chord/twist distributions for blade geometry
 - Supporting CAD development and blade geometry iteration
 - Using ANSYS to evaluate stress and deflection under expected loading
