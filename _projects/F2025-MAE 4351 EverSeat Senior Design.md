@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Senior Design Project 
+title: Senior Design Project - EverSeat
 technologies: [CAD, ANSYS, DFMEA, QFD]
 image: /assets/images/everseat.png
 ---
