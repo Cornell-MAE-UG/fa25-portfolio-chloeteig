@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Open Design Project: Snow Shovel & Salt Dropper
+title: Open Design Project- Snow Shovel and Salt Dropper
 technologies: [Mechanical Synthesis, CAD, Rapid Prototyping, Design for Assembly, User Research]
 image: /assets/images/snowshovel-cover.png
 ---
