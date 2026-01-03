@@ -10,7 +10,8 @@ permalink: /projects/
       <div class="gallery-item">
         <a href="{{ project.url | relative_url }}">
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
-          <p>{{ project.title}}</p>
+          <p>{{ project.title }}</p>
+          <p class="project-description">{{ project.description }}</p>
         </a>
       </div>
     {% endfor %}
