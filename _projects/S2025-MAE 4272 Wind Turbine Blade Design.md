@@ -38,16 +38,10 @@ I helped collect experimental data and processed the results using Excel and MAT
 
 ## **My Contribution**
 
-This was a team-based project. My contributions included:
-- Running MATLAB blade element momentum calculations to inform blade geometry
-- Supporting CAD development and structural simulation
-- Developing and organizing the wind tunnel testing procedure
-- Collecting and processing experimental data
-- Creating plots and figures to clearly communicate performance
-- Leading large portions of the final report assembly and documentation
+This was a team-based project. My contributions included running MATLAB blade element momentum calculations to inform blade geometry, supporting CAD development and structural simulation, developing and organizing the wind tunnel testing procedure, collecting and processing experimental data, and assembling the final report documentation.
 
 ---
 
 ## **Outcome**
 
-I delivered a validated turbine blade design supported by analytical modeling, simulation, and wind tunnel data. This project strengthened my ability to connect fluid mechanics and heat transfer theory to experimental testing, interpret real performance data, and communicate results clearly through technical documentation.
+I delivered a validated turbine blade design supported by analytical modeling, simulation, and wind tunnel data. This project strengthened my ability to connect fluid mechanics theory to experimental testing, interpret real performance data, and communicate results clearly through technical documentation.
