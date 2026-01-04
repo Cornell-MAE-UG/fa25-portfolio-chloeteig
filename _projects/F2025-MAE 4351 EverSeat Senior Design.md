@@ -7,7 +7,7 @@ image: /assets/images/everseat.png
 
 ## **Overview**
 
-We founded ModuBaby to rethink how child safety products are designed, used, and discarded. Our flagship product, EverSeat, is a modular child car seat that adapts from infancy through the booster stage, eliminating the need for families to purchase multiple seats as their child grows.
+I completed this project as part of MAE 4351 (Interdisciplinary Design Concepts), my Senior Design class. We founded ModuBaby to rethink how child safety products are designed, used, and discarded. Our flagship product, EverSeat, is a modular child car seat that adapts from infancy through the booster stage, eliminating the need for families to purchase multiple seats as their child grows.
 
 We designed EverSeat to address three core problems in the current market: poor caregiver accessibility, unnecessary replacement-driven waste, and bulky designs that prioritize convenience features over long-term usability. Rather than treating each growth stage as a separate product, we built EverSeat as a single adaptive platform that grows with the child.
 

@@ -7,7 +7,7 @@ image: /assets/images/lorawantracker-cover.png
 
 ## **Overview**
 
-I completed this project as part of MAE 4221, working on a four-person team to design and build a handheld LoRaWAN connectivity tracker for use by non-technical volunteers. Community partners in Syracuse and Geneva needed a simple way to evaluate LoRaWAN coverage in the field to inform placement of sensors supporting public services such as flood monitoring, food access initiatives, and community infrastructure.
+I completed this project as part of MAE 4221 (Internet of Things), working on a four-person team to design and build a handheld LoRaWAN connectivity tracker for use by non-technical volunteers. Community partners in Syracuse and Geneva needed a simple way to evaluate LoRaWAN coverage in the field to inform placement of sensors supporting public services such as flood monitoring, food access initiatives, and community infrastructure.
 
 We focused on translating stakeholder needs into a robust, easy-to-use IoT system that volunteers could deploy with minimal training.
 

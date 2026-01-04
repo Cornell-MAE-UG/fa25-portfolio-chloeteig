@@ -7,7 +7,7 @@ image: /assets/images/pawfectrinse.png
 
 ## **Overview**
 
-We designed Pawfect Rinse to address a common problem faced by dog owners: bathing dogs is messy, stressful, and physically demanding, particularly in small living spaces or when bathing alone. Existing solutions either rely on high-pressure hoses that cause anxiety for dogs or rigid tubs that are bulky, uncomfortable, and difficult to store.
+I completed this project as a part of MAE 4630 (Product Design). We designed the Pawfect Rinse to address a common problem faced by dog owners: bathing dogs is messy, stressful, and physically demanding, particularly in small living spaces or when bathing alone. Existing solutions either rely on high-pressure hoses that cause anxiety for dogs or rigid tubs that are bulky, uncomfortable, and difficult to store.
 
 Our goal was to create a portable, easy-to-use system that gently contains the dog, provides full rinse coverage, and reduces physical effort for the owner. Pawfect Rinse is a collapsible bathing and drying system designed for use indoors or outdoors and compatible with standard household water sources.
 

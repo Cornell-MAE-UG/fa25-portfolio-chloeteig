@@ -7,7 +7,7 @@ image: /assets/images/turbine-pic.png
 
 ## **Overview**
 
-I completed this project as part of MAE 4272: Fluids and Heat Transfer Lab, working on a team to design, manufacture, and experimentally test a small-scale wind turbine blade in Cornell’s wind tunnel. The objective was to connect aerodynamic theory and experimental methods by designing a blade that produced measurable power while remaining structurally stable under load.
+I completed this project as part of MAE 4272 (Fluids and Heat Transfer Lab), working on a team to design, manufacture, and experimentally test a small-scale wind turbine blade in Cornell’s wind tunnel. The objective was to connect aerodynamic theory and experimental methods by designing a blade that produced measurable power while remaining structurally stable under load.
 
 This project followed the full experimental workflow, including analytical modeling, CAD design, structural analysis, fabrication, and wind tunnel testing.
 
