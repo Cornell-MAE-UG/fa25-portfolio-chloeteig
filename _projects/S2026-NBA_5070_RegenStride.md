@@ -27,7 +27,7 @@ We structured RegenStride as a licensing business, earning 8-10% royalties per O
 
 <img src="{{ '/assets/images/regenstride-markets.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
-<p style="text-align:center; font-size:0.9rem; color:#666;">Market breakdown: TAM covers the full $131B global athletic footwear market, SAM narrows to Nike's ~$51B market where extended cushioning life is most relevant, and SOM represents ~$17.5M in licensing revenue capturable through a single OEM partnership across 2-3 product lines in years 1-5.</p>
+<p style="text-align:center; font-size:0.9rem; color:#666;">Market breakdown: TAM covers the full global athletic footwear market, SAM narrows to Nike's market where extended cushioning life is most relevant, and SOM represents licensing revenue capturable through a single OEM partnership across 2-3 product lines in years 1-5.</p>
 
 ---
 
@@ -37,7 +37,7 @@ Our GTM strategy phased commercialization across three stages: a limited-edition
 
 <img src="{{ '/assets/images/regenstride-milestones.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
-<p style="text-align:center; font-size:0.9rem; color:#666;">Five-stage commercialization roadmap: internal validation to 2x mileage, exclusive OEM partnership, sold-out limited drop, standard model integration, and multi-model expansion across SKUs.</p>
+<p style="text-align:center; font-size:0.9rem; color:#666;">Five-stage commercialization milestone roadmap.</p>
 
 ---
 
