@@ -1,6 +1,6 @@
 ---
 layout: project
-title: RegenStride - Entrepreneurship for Scientists & Engineers
+title: RegenStride
 technologies: [B2B Licensing, Market Analysis, Financial Modeling, Venture Strategy, Materials Science]
 image: /assets/images/regen_stride-cover.png
 ---
