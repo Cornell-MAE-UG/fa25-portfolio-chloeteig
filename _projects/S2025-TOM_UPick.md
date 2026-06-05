@@ -47,7 +47,7 @@ After finalizing the redesign, I compiled and published updated documentation to
 
 ## **My Contribution**
 
-This was an independent internship project. My contributions included:
+I worked on this project with one other intern. My contributions included:
 - Evaluating the existing prototype and identifying areas for improvement
 - Creating and iterating CAD models for the redesigned geometry
 - Fabricating the updated prototype including tubing prep, paint finish, and soldered circuits
