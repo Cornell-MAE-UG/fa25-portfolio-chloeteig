@@ -4,9 +4,8 @@ title: Chloe Teig - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
-
 <iframe 
-  src="{{ '/assets/CV.docx.pdf' | relative_url }}"
+  src="{{ '/assets/CV.pdf' | relative_url }}"
   style="
     width:95%;
     max-width:1100px;
@@ -19,20 +18,12 @@ permalink: /cv/
     display:block;
     margin:0 auto 1rem auto;">
 </iframe>
-
 <div style="text-align:center;">
-  <a href="{{ '/assets/CV.docx.pdf' | relative_url }}"
+  <a href="{{ '/assets/CV.pdf' | relative_url }}"
      target="_blank"
      style="font-size:1rem; text-decoration:none; color:#0077cc;">
      Download PDF →
   </a>
 </div>
-
-
-
-
-[Download my CV]({{ "/assets/CV.docx.pdf" | relative_url }}) in PDF format.
-
-
+[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 **Email:** [crt78@cornell.edu](mailto:crt78@cornell.edu) | | | **Phone:** +646 763 0189
-
