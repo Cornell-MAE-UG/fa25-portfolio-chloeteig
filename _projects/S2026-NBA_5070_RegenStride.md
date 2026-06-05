@@ -1,6 +1,6 @@
 ---
 layout: project
-title: RegenStride
+title: RegenStride - Entrepreneurship for Scientists & Engineers
 technologies: [B2B Licensing, Market Analysis, Financial Modeling, Venture Strategy, Materials Science]
 image: /assets/images/regen_stride-cover.png
 ---
@@ -27,7 +27,7 @@ We structured RegenStride as a licensing business, earning 8-10% royalties per O
 
 <img src="{{ '/assets/images/regenstride-markets.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
-<p style="text-align:center; font-size:0.9rem; color:#666;">TAM ~$131B, SAM ~$51B, SOM ~$17.5M based on single OEM partnership across 2-3 product lines in years 1-5.</p>
+<p style="text-align:center; font-size:0.9rem; color:#666;">Market breakdown: TAM covers the full $131B global athletic footwear market, SAM narrows to Nike's ~$51B market where extended cushioning life is most relevant, and SOM represents ~$17.5M in licensing revenue capturable through a single OEM partnership across 2-3 product lines in years 1-5.</p>
 
 ---
 
@@ -36,6 +36,8 @@ We structured RegenStride as a licensing business, earning 8-10% royalties per O
 Our GTM strategy phased commercialization across three stages: a limited-edition premium validation drop with Nike, integration into core product lines at scale, and eventual multi-OEM expansion. We projected Phase 1 revenue of $80-100K from 1,000 premium units, scaling to $1M-$7M annually once integrated into core SKUs at 100K-1M units per year.
 
 <img src="{{ '/assets/images/regenstride-milestones.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
+
+<p style="text-align:center; font-size:0.9rem; color:#666;">Five-stage commercialization roadmap: internal validation to 2x mileage, exclusive OEM partnership, sold-out limited drop, standard model integration, and multi-model expansion across SKUs.</p>
 
 ---
 
