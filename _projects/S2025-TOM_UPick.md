@@ -31,9 +31,9 @@ I created and tested updated CAD models, then fabricated an improved prototype b
 
 <img src="{{ '/assets/images/upick-iterations.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
 
-<p style="text-align:center; font-size:0.9rem; color:#666;">Prototype iterations showing progression in finish and assembly.</p>
+<p style="text-align:center; font-size:0.9rem; color:#666;">Prototype iterations.</p>
 
-<img src="{{ '/assets/images/upick-sautering.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" />
+<img src="{{ '/assets/images/upick-sautering.png' | relative_url }}" style="max-width: 650px; width: 100%; display:block; margin: 1.5rem auto;" >Sautering circuits.</p>
 
 ---
 
